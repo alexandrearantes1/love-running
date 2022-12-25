@@ -142,19 +142,20 @@ hr {
 }
 
 
-.ethos {
-    width: 60%;
-    line-height: 20px;
-    margin-bottom: 50px;
-    clear: both;
-}
-
 .left-about-heading {
     float: right;
 }
 
 .right-about-heading {
     float: left;
+    text-align: right;
+}
+
+.ethos {
+    width: 60%;
+    line-height: 20px;
+    margin-bottom: 50px;
+    clear: both;
 }
 
 #welcome {
